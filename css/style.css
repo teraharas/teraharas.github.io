@@ -50,7 +50,7 @@ ul#mycarousel li {float: left; display: inline; height: 184px; width: 270px;}
 #main .shell {width: 945px;}
 
 .article {padding-bottom: 55px;}
-.gallery {padding-bottom: 20px;}
+.gallery {padding-bottom: 20px;width: 800px; position: relative;}
 
 a.view-all {color: #f1ac01; float: right;}
 
